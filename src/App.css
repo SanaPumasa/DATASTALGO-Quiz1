@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+/* Remove rounded corners */
+.card,
+.btn,
+.form-control,
+.form-select,
+.dropdown-menu,
+.modal-content,
+.alert,
+.badge,
+.progress,
+img {
+  border-radius: 0 !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +50,4 @@
     transform: rotate(360deg);
   }
 }
+

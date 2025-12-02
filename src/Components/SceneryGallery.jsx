@@ -2,12 +2,12 @@ import React from 'react'
 import { Container, Row, Col, Card } from 'react-bootstrap'
 
 const images = [
-  { src: 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80', alt: 'Mountain landscape', caption: 'Majestic mountains' },
-  { src: 'https://images.unsplash.com/photo-1501785888041-3b5c0b5b2e8f?auto=format&fit=crop&w=1200&q=80', alt: 'Lake sunset', caption: 'Sunset at the lake' },
-  { src: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80', alt: 'Forest path', caption: 'Walk in the forest' },
-  { src: 'https://images.unsplash.com/photo-1501785888041-37b8a8a8df8a?auto=format&fit=crop&w=1200&q=80', alt: 'Beach', caption: 'Sunny beach' },
-  { src: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80', alt: 'Desert dunes', caption: 'Golden dunes' },
-  { src: 'https://images.unsplash.com/photo-1441829266145-b7d63e3e9a9b?auto=format&fit=crop&w=1200&q=80', alt: 'Northern lights', caption: 'Aurora nights' }
+  { src: '/MtPinatubo.jpg', alt: 'Mountain', caption: 'Majestic Mountains' },
+  { src: '/LakeDanao.jpg', alt: 'Lake', caption: 'Calming Lakes' },
+  { src: '/SacobiaBridge.jpeg', alt: 'SacobiaBridge', caption: 'Roadtrips' },
+  { src: '/ElNido.jpg', alt: 'Beach', caption: 'Sunny Beach' },
+  { src: '/Arizona.jpg', alt: 'Arizona', caption: 'Golden dunes' },
+  { src: '/NorthernLights.jpg', alt: 'Northern lights', caption: 'Aurora nights' }
 ]
 
 export default function SceneryGallery() {
