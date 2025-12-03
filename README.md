@@ -41,5 +41,5 @@ Opens at `http://localhost:3000`
 ## Status
 
 - Homepage done
-- Gallery working
+- Gallery working (Pictures can be seen)
 - Other pages coming soon
