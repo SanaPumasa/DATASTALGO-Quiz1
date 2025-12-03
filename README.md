@@ -7,7 +7,7 @@ Travel agency website for my parents' travel business. This is a home-based trav
 - Home page with company info and travel photos
 - Navigation links (About, Services, Gallery)
 - Airplane banner image
-- Photo gallery with 6 travel destination images
+- Photo gallery with 6 sample destination images
 - Contact information section
 
 ## Routes
