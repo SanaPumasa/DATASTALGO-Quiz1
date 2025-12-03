@@ -10,7 +10,11 @@ function Header() {
                 <p><strong>Your remote travel and tour service partner</strong></p>
             </header>
         </Nav.Link>
-        <Nav.Link href="/user" className="ms-auto me-5"><i className='fas fa-user'></i> User</Nav.Link>
+        <Nav className="ms-auto me-4">
+          <Nav.Link href="/about" className="text-dark"><strong>About</strong></Nav.Link>
+          <Nav.Link href="/services" className="text-dark"><strong>Services</strong></Nav.Link>
+          <Nav.Link href="/gallery" className="text-dark"><strong>Gallery</strong></Nav.Link>
+        </Nav>
     </Navbar>
   )
 }
