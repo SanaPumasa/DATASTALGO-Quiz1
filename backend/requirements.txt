@@ -1,0 +1,10 @@
+# Django
+Django>=4.2,<5.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+python-dotenv>=1.0.0
+
+# Database (SQLite is built-in, no additional package needed)
+
+# Production server (optional, for deployment)
+gunicorn>=21.0.0
